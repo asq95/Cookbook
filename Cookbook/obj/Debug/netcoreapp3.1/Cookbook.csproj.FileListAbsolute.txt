@@ -1,0 +1,25 @@
+C:\Users\SpoolkaZUO\source\repos\Cookbook\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.exe
+C:\Users\SpoolkaZUO\source\repos\Cookbook\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.deps.json
+C:\Users\SpoolkaZUO\source\repos\Cookbook\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.runtimeconfig.json
+C:\Users\SpoolkaZUO\source\repos\Cookbook\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.runtimeconfig.dev.json
+C:\Users\SpoolkaZUO\source\repos\Cookbook\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.dll
+C:\Users\SpoolkaZUO\source\repos\Cookbook\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.pdb
+C:\Users\SpoolkaZUO\source\repos\Cookbook\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.AssemblyInfoInputs.cache
+C:\Users\SpoolkaZUO\source\repos\Cookbook\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.AssemblyInfo.cs
+C:\Users\SpoolkaZUO\source\repos\Cookbook\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.csproj.CoreCompileInputs.cache
+C:\Users\SpoolkaZUO\source\repos\Cookbook\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.dll
+C:\Users\SpoolkaZUO\source\repos\Cookbook\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.pdb
+C:\Users\SpoolkaZUO\source\repos\Cookbook\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.genruntimeconfig.cache
+C:\Users\SpoolkaZUO\source\repos\Cookbook — kopia\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.exe
+C:\Users\SpoolkaZUO\source\repos\Cookbook — kopia\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.deps.json
+C:\Users\SpoolkaZUO\source\repos\Cookbook — kopia\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.runtimeconfig.json
+C:\Users\SpoolkaZUO\source\repos\Cookbook — kopia\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.runtimeconfig.dev.json
+C:\Users\SpoolkaZUO\source\repos\Cookbook — kopia\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.dll
+C:\Users\SpoolkaZUO\source\repos\Cookbook — kopia\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.pdb
+C:\Users\SpoolkaZUO\source\repos\Cookbook — kopia\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.AssemblyInfoInputs.cache
+C:\Users\SpoolkaZUO\source\repos\Cookbook — kopia\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.AssemblyInfo.cs
+C:\Users\SpoolkaZUO\source\repos\Cookbook — kopia\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.csproj.CoreCompileInputs.cache
+C:\Users\SpoolkaZUO\source\repos\Cookbook — kopia\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.dll
+C:\Users\SpoolkaZUO\source\repos\Cookbook — kopia\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.pdb
+C:\Users\SpoolkaZUO\source\repos\Cookbook — kopia\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.genruntimeconfig.cache
+C:\Users\SpoolkaZUO\source\repos\Cookbook\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.csprojAssemblyReference.cache
