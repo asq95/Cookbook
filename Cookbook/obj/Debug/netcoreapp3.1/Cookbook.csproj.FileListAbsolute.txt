@@ -23,3 +23,21 @@ C:\Users\SpoolkaZUO\source\repos\Cookbook — kopia\Cookbook\obj\Debug\netcoreap
 C:\Users\SpoolkaZUO\source\repos\Cookbook — kopia\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.pdb
 C:\Users\SpoolkaZUO\source\repos\Cookbook — kopia\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.genruntimeconfig.cache
 C:\Users\SpoolkaZUO\source\repos\Cookbook\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.csprojAssemblyReference.cache
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.exe
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.deps.json
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.runtimeconfig.json
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.runtimeconfig.dev.json
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.dll
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.pdb
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.csprojAssemblyReference.cache
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.AssemblyInfoInputs.cache
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.AssemblyInfo.cs
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.csproj.CoreCompileInputs.cache
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.dll
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.pdb
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.genruntimeconfig.cache
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.App.dll
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.Domain.dll
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.App.pdb
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\bin\Debug\netcoreapp3.1\Cookbook.Domain.pdb
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook\obj\Debug\netcoreapp3.1\Cookbook.csproj.CopyComplete

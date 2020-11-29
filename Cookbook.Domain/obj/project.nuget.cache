@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u9eAdFgXi/cjPCloPrcIvTBhGKGUcc8fzO0jmJnqBwYnnMkclM3eRPocb7J2z9U67/ld1Kn4gBlluw32zzxDZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SpoolkaZUO\\Desktop\\CookbookProject\\CookbookProject\\Cookbook.Domain\\Cookbook.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SpoolkaZUO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SpoolkaZUO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

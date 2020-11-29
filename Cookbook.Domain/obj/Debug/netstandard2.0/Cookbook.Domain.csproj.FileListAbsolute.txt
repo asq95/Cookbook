@@ -1,0 +1,9 @@
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.Domain\bin\Debug\netstandard2.0\Cookbook.Domain.deps.json
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.Domain\bin\Debug\netstandard2.0\Cookbook.Domain.dll
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.Domain\bin\Debug\netstandard2.0\Cookbook.Domain.pdb
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.Domain\obj\Debug\netstandard2.0\Cookbook.Domain.csprojAssemblyReference.cache
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.Domain\obj\Debug\netstandard2.0\Cookbook.Domain.AssemblyInfoInputs.cache
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.Domain\obj\Debug\netstandard2.0\Cookbook.Domain.AssemblyInfo.cs
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.Domain\obj\Debug\netstandard2.0\Cookbook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.Domain\obj\Debug\netstandard2.0\Cookbook.Domain.dll
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.Domain\obj\Debug\netstandard2.0\Cookbook.Domain.pdb

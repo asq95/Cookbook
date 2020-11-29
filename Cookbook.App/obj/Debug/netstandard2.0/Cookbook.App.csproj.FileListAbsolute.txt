@@ -1,0 +1,12 @@
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.App\bin\Debug\netstandard2.0\Cookbook.App.deps.json
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.App\bin\Debug\netstandard2.0\Cookbook.App.dll
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.App\bin\Debug\netstandard2.0\Cookbook.App.pdb
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.App\bin\Debug\netstandard2.0\Cookbook.Domain.dll
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.App\bin\Debug\netstandard2.0\Cookbook.Domain.pdb
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.App\obj\Debug\netstandard2.0\Cookbook.App.csprojAssemblyReference.cache
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.App\obj\Debug\netstandard2.0\Cookbook.App.AssemblyInfoInputs.cache
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.App\obj\Debug\netstandard2.0\Cookbook.App.AssemblyInfo.cs
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.App\obj\Debug\netstandard2.0\Cookbook.App.csproj.CoreCompileInputs.cache
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.App\obj\Debug\netstandard2.0\Cookbook.App.csproj.CopyComplete
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.App\obj\Debug\netstandard2.0\Cookbook.App.dll
+C:\Users\SpoolkaZUO\Desktop\CookbookProject\CookbookProject\Cookbook.App\obj\Debug\netstandard2.0\Cookbook.App.pdb

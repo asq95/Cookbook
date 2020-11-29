@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookbook", "Cookbook\Cookbook.csproj", "{5A8BB704-9E60-4B50-8EF7-D60D2869E32D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cookbook", "Cookbook\Cookbook.csproj", "{5A8BB704-9E60-4B50-8EF7-D60D2869E32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookbook.App", "Cookbook.App\Cookbook.App.csproj", "{6C4F5395-CE9D-4193-97A5-FB2780F7034F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookbook.Domain", "Cookbook.Domain\Cookbook.Domain.csproj", "{FB3C39F0-2C39-4E24-BC7A-6A8A058C3776}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{5A8BB704-9E60-4B50-8EF7-D60D2869E32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A8BB704-9E60-4B50-8EF7-D60D2869E32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A8BB704-9E60-4B50-8EF7-D60D2869E32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C4F5395-CE9D-4193-97A5-FB2780F7034F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4F5395-CE9D-4193-97A5-FB2780F7034F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4F5395-CE9D-4193-97A5-FB2780F7034F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4F5395-CE9D-4193-97A5-FB2780F7034F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3C39F0-2C39-4E24-BC7A-6A8A058C3776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3C39F0-2C39-4E24-BC7A-6A8A058C3776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3C39F0-2C39-4E24-BC7A-6A8A058C3776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3C39F0-2C39-4E24-BC7A-6A8A058C3776}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

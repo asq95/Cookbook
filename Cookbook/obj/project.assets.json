@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Cookbook.App/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Cookbook.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cookbook.App.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cookbook.App.dll": {}
+        }
+      },
+      "Cookbook.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Cookbook.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cookbook.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Cookbook.App/1.0.0": {
+      "type": "project",
+      "path": "../Cookbook.App/Cookbook.App.csproj",
+      "msbuildProject": "../Cookbook.App/Cookbook.App.csproj"
+    },
+    "Cookbook.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Cookbook.Domain/Cookbook.Domain.csproj",
+      "msbuildProject": "../Cookbook.Domain/Cookbook.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Cookbook.App >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\SpoolkaZUO\\.nuget\\packages\\": {},
@@ -15,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SpoolkaZUO\\source\\repos\\Cookbook\\Cookbook\\Cookbook.csproj",
+      "projectUniqueName": "C:\\Users\\SpoolkaZUO\\Desktop\\CookbookProject\\CookbookProject\\Cookbook\\Cookbook.csproj",
       "projectName": "Cookbook",
-      "projectPath": "C:\\Users\\SpoolkaZUO\\source\\repos\\Cookbook\\Cookbook\\Cookbook.csproj",
+      "projectPath": "C:\\Users\\SpoolkaZUO\\Desktop\\CookbookProject\\CookbookProject\\Cookbook\\Cookbook.csproj",
       "packagesPath": "C:\\Users\\SpoolkaZUO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SpoolkaZUO\\source\\repos\\Cookbook\\Cookbook\\obj\\",
+      "outputPath": "C:\\Users\\SpoolkaZUO\\Desktop\\CookbookProject\\CookbookProject\\Cookbook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -39,7 +76,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\SpoolkaZUO\\Desktop\\CookbookProject\\CookbookProject\\Cookbook.App\\Cookbook.App.csproj": {
+              "projectPath": "C:\\Users\\SpoolkaZUO\\Desktop\\CookbookProject\\CookbookProject\\Cookbook.App\\Cookbook.App.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
